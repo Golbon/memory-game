@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board-button {
+  width: 200px;
+  height: 200px;
+}
+
+.Board-State {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
